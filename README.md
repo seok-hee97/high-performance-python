@@ -1,11 +1,5 @@
 # High Performance Python
 
-
-
-
-
-
-High Performance Python 2e: The Code
 =================================
 
 This repository contains the code from ["High Performance
@@ -148,4 +142,9 @@ things, leave an issue on this repo!  Just keep in mind that all code was
 written for educational purposes and sometimes this means favouring readability
 over "the right thing" (although in Python these two things are generally one
 and the same!).
+
+
+
+
+## Reference
 
