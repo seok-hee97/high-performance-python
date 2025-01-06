@@ -145,7 +145,6 @@ and the same!).
 
 
 
-
 ## Reference
 
 - [high_performance_python_2e](https://github.com/mynameisfiber/high_performance_python_2e/tree/master)
